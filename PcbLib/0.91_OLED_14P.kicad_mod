@@ -44,8 +44,8 @@
   (pad "12" smd roundrect (at 0 6.82) (size 2.4 0.34) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7b378410-d0c1-417e-97bf-d4e311921b8f))
   (pad "13" smd roundrect (at 0 7.44) (size 2.4 0.34) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 4496797d-0d32-457f-ade2-949dcc75cbc9))
   (pad "14" smd roundrect (at 0 8.06) (size 2.4 0.34) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bccf18fa-b627-4842-bc4a-b418f2db5520))
-  (model "D:/Git/Project/Del-s-Library-of-KiCAD/3DModel/屏幕/User Library-0_91__ OLED v4.step"
-    (offset (xyz 25 -11.02 0.2))
+  (model "${DEL_3DMODEL_DIR}/屏幕/User Library-0_91__ OLED v4.step"
+    (offset (xyz 25 -11 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
