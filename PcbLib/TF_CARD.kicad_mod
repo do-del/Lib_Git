@@ -40,9 +40,9 @@
   (pad "10" smd roundrect (at -7.8 0.5) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 839a8e3a-7812-4667-9da9-ddf2838bb6a9))
   (pad "10" smd roundrect (at 6.8 0.5) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cab8584a-83a2-4598-8f71-7b1063e0064f))
   (pad "10" smd roundrect (at 7.7 10.05) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f5bee64c-58a8-4940-a042-546a7f74f3f8))
-  (model "D:/Common/Footprint/User Library-Micro_SD_Socket_Push-push.STEP"
+  (model "${DEL_3DMODEL_DIR}/User Library-Micro_SD_Socket_Push-push.STEP"
     (offset (xyz -1 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 180))
+    (rotate (xyz -90 0 -180))
   )
 )
