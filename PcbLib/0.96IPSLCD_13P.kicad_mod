@@ -44,7 +44,7 @@
   (pad "11" smd roundrect (at -2.8 0.75) (size 0.4 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7877399f-52dd-45e5-b7cc-f599914aaf4e))
   (pad "12" smd roundrect (at -3.5 0.75) (size 0.4 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1aacaa27-d714-410f-829b-7010d8b4f2f3))
   (pad "13" smd roundrect (at -4.2 0.75) (size 0.4 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0f4faaaf-7536-431f-a354-04dddfdd1e0f))
-  (model "D:/Git/Project/Del-s-Library-of-KiCAD/3DModel/屏幕/0.96_IPSLCD_13P v1.step"
+  (model "${DEL_3DMODEL_DIR}/屏幕/0.96_IPSLCD_13P v1.step"
     (offset (xyz 6.75 -13.3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
