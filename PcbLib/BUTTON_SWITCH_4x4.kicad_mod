@@ -20,7 +20,7 @@
   (pad "1" smd roundrect (at 3 -1.85) (size 1.5 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f950124e-b423-4fcf-9744-10eef7b33c00))
   (pad "2" smd roundrect (at 3 1.85) (size 1.5 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 55b039a9-5e4a-47b3-bc52-568bd3e6670c))
   (pad "2" smd roundrect (at -3 1.85) (size 1.5 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8a14d28e-e708-4c1c-a642-dcb97b6c2e0d))
-  (model "D:/Git/Project/Del-s-Library-of-KiCAD/3DModel/Button/User Library-LP16.step"
+  (model "${DEL_3DMODEL_DIR}/Button/User Library-LP16.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
