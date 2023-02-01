@@ -14,6 +14,9 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b5122665-d656-4a2f-a3a0-a41b78fbc3ea)
   )
+  (fp_line (start -0.4 1.8) (end 0.4 1.8) (layer "F.SilkS") (width 0.12) (tstamp 23cbc2ff-67ef-4615-820b-a8147b38dc43))
+  (fp_line (start -0.4 -1.8) (end 0.4 -1.8) (layer "F.SilkS") (width 0.12) (tstamp c3009b53-1052-419d-8f96-a335a0c47360))
+  (fp_rect (start -1.9 -1.7) (end 1.9 1.7) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 82d6c2c0-b574-4725-85cb-02ad86317419))
   (pad "1" smd roundrect (at -1.25 0) (size 1.6 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c372d06b-45e7-4192-ba19-591c7f299987))
   (pad "2" smd roundrect (at 1.25 0) (size 1.6 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9c3b0805-6652-40b8-8518-706a4668a6fd))
   (model "${DEL_3DMODEL_DIR}/IND/Inductor_CD32.STEP"
