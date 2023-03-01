@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
   (symbol "0.91OLED_SPI_15P" (in_bom yes) (on_board yes)
-    (property "Reference" "OLED" (at 2.54 1.27 0)
+    (property "Reference" "OLED" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "" (at 0 0 0)
