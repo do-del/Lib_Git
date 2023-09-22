@@ -1,4 +1,4 @@
-(footprint "0.91_OLED_15P" (version 20221018) (generator pcbnew)
+(footprint "OLED_091_15P" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at -7.62 -6.582 unlocked) (layer "F.SilkS")
